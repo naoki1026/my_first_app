@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c6d501b7-e981-4d1e-8157-e8f0aa1a5295" name="Default Changelist" comment="初めてのアプリだよ" />
+    <list id="7997a5dc-dbb2-4598-bcbf-8eee82ba5b09" name="Revert &quot;Initial commit&quot;-2" comment="Revert &quot;Initial commit&quot;&#10;&#10;This reverts commit 7841932c" />
+    <list id="8de75509-5bd6-42a8-bbea-542db6aacafa" name="Revert &quot;lecture39&quot;" comment="Revert &quot;lecture39&quot;&#10;&#10;This reverts commit 3417656e" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Nexus_5_API_27" />
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="ProjectId" id="1fx8MxOr5SXVPartI5XbS2WSvlY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/images" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/images" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6d501b7-e981-4d1e-8157-e8f0aa1a5295" name="Default Changelist" comment="" />
+      <created>1597148339039</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597148339039</updated>
+    </task>
+    <task id="LOCAL-00001" summary="lecture39">
+      <created>1597486700846</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597486700846</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Revert &quot;Initial commit&quot;&#10;&#10;This reverts commit 7841932c">
+      <created>1597486904022</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1597486904022</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Revert &quot;Initial commit&quot;&#10;&#10;This reverts commit 7841932c">
+      <created>1597487517117</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1597487517117</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Revert &quot;Revert &quot;Initial commit&quot;&quot;&#10;&#10;This reverts commit 3c45c694">
+      <created>1597487651385</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1597487651385</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Revert &quot;Initial commit&quot;&#10;&#10;This reverts commit 7841932c">
+      <created>1597487881656</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1597487881656</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lecture39" />
+    <MESSAGE value="Revert &quot;Revert &quot;Initial commit&quot;&quot;&#10;&#10;This reverts commit 3c45c694" />
+    <MESSAGE value="Revert &quot;Initial commit&quot;&#10;&#10;This reverts commit 7841932c" />
+    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;Initial commit&quot;&#10;&#10;This reverts commit 7841932c" />
+  </component>
+</project>
